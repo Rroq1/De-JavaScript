@@ -4,7 +4,7 @@
 - Voici un petit programme en JavaScript permettant d'avoir les différentes faces d'un dé.
 
 ## 📗 Objectif
-- Le but premier de ce petit programme est premièrement que je progresse tout en apprenant des nouvelles techniques.
+- L'objectif du problème résolu est que j'apprene davantage sur le langage utilisé.
 
 ## ⌛ Autres Informations
 - Si vous voulez savoir comment j'ai construit ce programme, alors je vous invite à regarder le code pour en savoir davantage !
